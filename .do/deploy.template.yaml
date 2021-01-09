@@ -1,7 +1,7 @@
 spec:
-  name: DO-TC39
-  static_sites:
-    - git:
-        branch: develop
+  name: do-hack
+  services:
+    - name: web
+      git:
+        branch: main
         repo_clone_url: https://github.com/Amansaxena001/DO-TC39-HACKATHON.git
-      name: sample-html
