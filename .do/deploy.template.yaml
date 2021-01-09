@@ -3,5 +3,5 @@ spec:
   services:
     - name: web
       git:
-        branch: main
+        branch: develop
         repo_clone_url: https://github.com/Amansaxena001/DO-TC39-HACKATHON.git
