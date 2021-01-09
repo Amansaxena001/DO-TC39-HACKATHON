@@ -1,0 +1,8 @@
+spec:
+  services:
+    - name: TC-39 India
+      git:
+        branch: develop
+        repo_clone_url: https://github.com/Amansaxena001/DO-TC39-HACKATHON/tree/develop
+    databases:
+    - name: example-db
