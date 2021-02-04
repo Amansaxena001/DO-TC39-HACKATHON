@@ -1,5 +1,5 @@
 spec:
-  name: do-hack
+  name: TC39-India
   services:
     - name: web
       git:
